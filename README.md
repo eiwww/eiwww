@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p style="font-size:500%;">Today is Saturday 🪐 Lame Master ⚡️</p>
+<h1 style="font-size:500%;" align="center">Today is Saturday 🪐 Lame Master ⚡️</h1>
 <p align="center">
   <img src="https://github.com/eiwww/eiwww/blob/main/285835398_5213199498787362_1427536070195681878_n.jpg" alt="Material Bread logo">
 </p>
