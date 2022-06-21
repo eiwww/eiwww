@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:100px; text-decoration: none;">Today is Saturday 🪐 Lame Master ⚡️</h1>
+<p align="center" style="font-size:100px; text-decoration: none;">Today is Saturday 🪐 Lame Master ⚡️</p>
 <p align="center">
   <img src="https://github.com/eiwww/eiwww/blob/main/285835398_5213199498787362_1427536070195681878_n.jpg" alt="Material Bread logo">
 </p>
