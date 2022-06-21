@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
 <style>
   h1 {
     display: inline-block;
   }
 </style>
+<html>
 <body>
 <h1 align="center">Today is Saturday 🪐 Lame Master ⚡️</h1>
 <p align="center">
