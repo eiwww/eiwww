@@ -8,10 +8,6 @@
   
 </body>
 </html>
-
-# Today is Saturday 🪐 Lame Master ⚡️
-
-![Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif](https://github.com/eiwww/eiwww/raw/main/Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif?raw=true)
 <!--
 **eiwww/eiwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
