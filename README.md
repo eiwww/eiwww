@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body><img alt="Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif" src="https://github.com/eiwww/eiwww/blob/main/Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm"">
 <h1 align="center" style="display: inline-block;">Today is Saturday 🪐 Lame Master ⚡️</h1>
 <p align="center">
 <!--   <img src="https://github.com/eiwww/eiwww/blob/main/285835398_5213199498787362_1427536070195681878_n.jpg" alt="Material Bread logo"> -->
-  <img alt="Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif" src="https://github.com/eiwww/eiwww/blob/main/Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm"">
+  
 </p>
 </body>
 </html>
