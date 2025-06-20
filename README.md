@@ -2,16 +2,10 @@
 <html>
 <body>
 <h1 align="center" style="display: inline-block;">Today is Saturday 🪐 Lame Master ⚡️</h1>
-<!-- <img alt="Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif" src="https://github.com/eiwww/eiwww/blob/main/Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" style="width: 100%; height: auto; display: block;">
- -->
- <div align="center" style="width: 100%;">
-  ![Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif](https://github.com/eiwww/eiwww/blob/main/Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif)
-</div>
- 
-<p align="center">
+<img alt="Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif" src="https://github.com/eiwww/eiwww/blob/main/Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" style="width: 100%; height: auto; display: block;">
+
 <!--   <img src="https://github.com/eiwww/eiwww/blob/main/285835398_5213199498787362_1427536070195681878_n.jpg" alt="Material Bread logo"> -->
   
-</p>
 </body>
 </html>
 <!--
