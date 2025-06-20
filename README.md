@@ -5,7 +5,7 @@
 <!-- <img alt="Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif" src="https://github.com/eiwww/eiwww/blob/main/Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" style="width: 100%; height: auto; display: block;">
  -->
  <div align="center" style="width: 100%;">
-  ![Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif](https://github.com/eiwww/eiwww/blob/main/Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif?raw=true)
+  ![Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif](https://github.com/eiwww/eiwww/blob/main/Strike-the-Blood-Anime-minamiya-natsuki-natsuki-minamiya-1078950.gif)
 </div>
  
 <p align="center">
